@@ -1,0 +1,19 @@
+site_name: Холокост на Невельской земле. Без срока давности
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: grey
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+nav:
+  - Главная: index.md
+  - Голубая Дача: bluedacha.md
+  - Зал Имен:
+      - Список: victims/index.md
+  - Праведники Невельчане: saintlikes.md
+  - Документы и медиа: sources.md
